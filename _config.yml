@@ -3,7 +3,7 @@ title: Eunae's Garden
 baseurl: "/ap"
 url: "https://Mia-estudiante.github.io/"
 google_analytics: G-REVP5X32M5 # Tracking ID, e.g. "UA-000000-01"
-theme: tale
+remote_theme: chesterhow/tale
 
 # Author
 author:
@@ -49,6 +49,7 @@ sass:
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-remote-theme
 
 # Permalinks
 permalink: /:year-:month-:day/:title
