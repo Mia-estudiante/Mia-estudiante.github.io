@@ -1,14 +1,15 @@
 # Site settings
 title: Eunae's Garden
-baseurl: "/Mia-estudiante.github.io"
+baseurl: "/ap"
 url: "https://Mia-estudiante.github.io/"
-google_analytics: # Tracking ID, e.g. "UA-000000-01"
+google_analytics: G-REVP5X32M5 # Tracking ID, e.g. "UA-000000-01"
+# remote_theme: /ap
 
 # Author
 author:
-  name: KyeongSeob Sim
+  name: Eunae Kang
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  email: eunae.engineer@gmail.com
   selfie: assets/img/profile.jpg
 
 # social
