@@ -1,9 +1,9 @@
 # Site settings
 title: Eunae's Garden
-baseurl: "/ap"
+baseurl: ""
 url: "https://Mia-estudiante.github.io/"
-google_analytics: G-REVP5X32M5 # Tracking ID, e.g. "UA-000000-01"
-remote_theme: chesterhow/tale
+# google_analytics: G-REVP5X32M5 # Tracking ID, e.g. "UA-000000-01"
+# remote_theme: chesterhow/tale
 
 # Author
 author:
