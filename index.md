@@ -7,7 +7,9 @@ layout: about
 Hi, there.<br/>
 I'm a junior AI researcher.<br/>
 I'm studying Computer Vision fields such as 3D Human Pose Estimation and Human Parsing.<br/>
-⭐ I wanna contribute to the use of AI technologies as tools in many different industries! ⭐
+⭐ I wanna contribute to the use of AI technologies as tools in many different industries! ⭐<br/><br/>
+If you have any questions, please feel free to contact me.
+Have a happy day!
 
 <!--
 <br/>
