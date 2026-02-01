@@ -6,7 +6,7 @@ layout: about
 
 Hi, there.<br/>
 I'm a MS student in Robot Control Intelligence Laboratory at Kyung Hee University, advised by Prof. Sanghyun Kim.<br/>
-My research interests lie in Human Robot Interaction and Multimodal AI.<br/>
+My research interests lie in Human Robot Interaction and Multimodal AI.<br/><br/>
 If you have any questions, please feel free to contact me.<br/>
 Have a happy day!
 
