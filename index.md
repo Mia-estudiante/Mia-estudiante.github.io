@@ -5,9 +5,8 @@ layout: about
 # About Me
 
 Hi, there.<br/>
-I'm a junior AI researcher.<br/>
-I'm studying Computer Vision fields such as 3D Generation, 3D Reconstruction, 3D Human Pose Estimation and Human Parsing.<br/>
-⭐ I wanna contribute to the use of AI technologies as tools in many different industries! ⭐<br/><br/>
+I'm a MS student in Robot Control Intelligence Laboratory at Kyung Hee University, advised by Prof. Sanghyun Kim.<br/>
+My research interests lie in Human Robot Interaction and Multimodal AI.<br/>
 If you have any questions, please feel free to contact me.<br/>
 Have a happy day!
 
